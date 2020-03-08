@@ -1,2 +1,2 @@
-def badge_maker(Arel)
+def badge_maker(greeting)
 end
