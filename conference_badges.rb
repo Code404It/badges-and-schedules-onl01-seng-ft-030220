@@ -2,7 +2,7 @@
   return "Hello, my name is # {name}"
 end
 def batch_badge_creator(array)
-  new_array=["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus","Matz"]
+  new_array=["Edsger","Ada","Charles","Alan","Grace","Linus","Matz"]
   array.each{|name| new_array << "Hello, my name is #{name}."}
   new_array
 end
